@@ -1,4 +1,6 @@
 # Small interpreter
+*This was made for an exercise*
+
 A small "computer" which has 10 registers and 1000 words of RAM. Both RAM and registers contain a 3 digit number (initialized to "000"). 
 
 Input to the program determine the contents of the first *n* RAM locations.
